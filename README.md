@@ -1,6 +1,7 @@
 # AI Article Summarizer
 
-![Project Logo/Preview Image]
+<img width="632" alt="image" src="https://github.com/roshan07273/AI_Article_Summarizer_Project/assets/77711686/335322c9-2c1a-40ab-9b0a-94756c76b5e5">
+
 
 **AI Article Summarizer** is a web application built using React, TailwindCSS, Vite, and Redux Toolkit. It allows users to input long articles and get concise summaries using AI-powered algorithms. This project aims to provide a simple yet powerful tool for summarizing lengthy texts and making them more digestible.
 
